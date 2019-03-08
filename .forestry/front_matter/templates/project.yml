@@ -1,0 +1,10 @@
+---
+label: Project
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: file
+  name: preview
+  label: Preview
